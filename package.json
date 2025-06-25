@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "private": true,
   "type": "module",
-  "homepage": "https://phalguni_roy.github.io/<repository-name>/",
+  "homepage": "https://phalguniroy.github.io/menu/",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
